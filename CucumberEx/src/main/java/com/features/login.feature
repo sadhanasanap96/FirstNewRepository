@@ -1,4 +1,7 @@
+
+@test
 Feature: JBK offline application test
+
 
   Scenario Outline: Login Test
     Given user on login page
